@@ -21,3 +21,4 @@
 |_warrior_|iron helm|chain mail|heavy boots|scimitar|wooden shield|x|x|x|
 |_ranger_|bycocket|rangers tunic|light boots|bow + arrow|wooden shield|x|x|x|
 |_wizard_|Witches Hat|magic robes|wizard boots|wand|grimoire|x|x|x|
+
