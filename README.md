@@ -5,8 +5,8 @@
 ## Three Classes
 | warrior |  ranger  | wizard   |
 | :------ | :------- | :--------|
-| - melee | - ranged | - mage   |
-| - iron armor |   - tunic |  - robes |
+| melee | ranged | mage   |
+| iron armor |   tunic |  robes |
 
 --------------------------------------------------------
 
@@ -19,6 +19,6 @@
 |Class|Head|Body|Feet|Weapon|Defense|Necklace|Bracelet|Ring|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |_warrior_|iron helm|chain mail|heavy boots|scimitar|wooden shield|x|x|x|
-|_ranger_|bycocket|rangers tunic|light boots|bow + arrow|wooden shield|x|x|x|
+|_ranger_|bycocket|rangers tunic|light boots|bow + arrow|x|x|x|x|
 |_wizard_|Witches Hat|magic robes|wizard boots|wand|grimoire|x|x|x|
 
